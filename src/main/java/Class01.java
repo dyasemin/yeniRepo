@@ -5,6 +5,7 @@ public class Class01 {
         //v2 calısmları
         System.out.println("v3 kodaları");//v3
         //v4 kısa yollar
+        //v5 kısa yolar
 
          }
 }
